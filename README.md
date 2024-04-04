@@ -63,12 +63,11 @@ Y= A⊕B
 
 
 # PROGRAM :
- ```
+```
 Developed by: PREM KUMAR G
 Register number; 212223230158
-```
 
-```
+
 module gates_exp1(a, b, c, d, e, x, y, z);
   input a, b;
   output c, d, e, x, y, z;
